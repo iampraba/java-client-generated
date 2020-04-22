@@ -1,0 +1,26 @@
+# SheetSupportedLanguages
+
+## Enum
+
+* `EN` (value: `"en"`)
+* `DE` (value: `"de"`)
+* `ES` (value: `"es"`)
+* `FR` (value: `"fr"`)
+* `HU` (value: `"hu"`)
+* `IT` (value: `"it"`)
+* `JA` (value: `"ja"`)
+* `NL` (value: `"nl"`)
+* `PL` (value: `"pl"`)
+* `PT` (value: `"pt"`)
+* `RU` (value: `"ru"`)
+* `SV` (value: `"sv"`)
+* `TR` (value: `"tr"`)
+* `ZH` (value: `"zh"`)
+* `ZH_CN` (value: `"zh_CN"`)
+* `HR` (value: `"hr"`)
+* `KO` (value: `"ko"`)
+* `UK` (value: `"uk"`)
+* `BG` (value: `"bg"`)
+* `AR` (value: `"ar"`)
+* `IW` (value: `"iw"`)
+* `UR` (value: `"ur"`)
